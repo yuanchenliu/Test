@@ -25,3 +25,5 @@ class treeNode:
                 ptr = ptr.right
                 
 step 1
+
+step 2
