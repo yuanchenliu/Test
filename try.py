@@ -23,7 +23,3 @@ class treeNode:
             else:
                 ptr = stack.pop()
                 ptr = ptr.right
-                
-step 1
-
-step 2
