@@ -24,5 +24,3 @@ class treeNode:
                 ptr = stack.pop()
                 ptr = ptr.right
                 
-     def test(a):
-     	return
