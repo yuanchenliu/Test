@@ -24,3 +24,4 @@ class treeNode:
                 ptr = stack.pop()
                 ptr = ptr.right
                 
+step 1
